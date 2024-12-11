@@ -1,0 +1,25 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+h1{
+    color: red;
+    text-align: center;
+    font-style: oblique;
+    font-size:xx-large;
+    background-color:plum;
+    
+}
+h2{
+    color: blue;
+    text-align:center;
+    font-size: xx-large;
+    background-color: darkorange;
+    box-sizing: border-box;
+}
+h3{
+    color: darkorchid;
+    text-align: center;
+    background-color: aqua;
+    font-size: x-large;
+}
